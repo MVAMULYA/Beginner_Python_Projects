@@ -9,3 +9,7 @@
 ### Password Generator
 
 ###### Python script to generate a password from given parameters
+
+### Picture of the day
+
+###### Python script that calls NASA picture of the day API. It takes a date from user and displays the picture of that day in a window. If the media type for that day is video, the program displays the thumbnail image.
